@@ -6,11 +6,11 @@ spring:
 spring:
   profiles: dev     #开发环境
   application: 
-    name: microservicecloud-config-atguigu-dev,version=3
+    name: microservicecloud-config-atguigu-dev,version=4
 ---
 spring:
   profiles: test   #测试环境
   application: 
-    name: microservicecloud-config-atguigu-test,version=3
+    name: microservicecloud-config-atguigu-test,version=4
  
  
